@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>saved by main</comment>
+<entry key="chars.birthday">_</entry>
+<entry key="custom.date_0">2019-01-01,2019-01-01</entry>
+<entry key="chars.company">+</entry>
+<entry key="custom.date_1">1029-02-01,1111-01-01</entry>
+<entry key="custom.date_2">3333-02-01,3333-02-01</entry>
+<entry key="chars.non_national">#</entry>
+<entry key="main.month">12</entry>
+<entry key="chars.special">*</entry>
+<entry key="info.id">123456</entry>
+<entry key="main.national">true</entry>
+<entry key="main.year">2018</entry>
+<entry key="bool.adobe_tags">true</entry>
+<entry key="info.value">99999</entry>
+<entry key="bool.month_space">true</entry>
+<entry key="main.last_saved_directory">L:\Eigene Dateien\2._Arbeit\Ströbel\Ströbel Bau - Kalender\Kalender\Material</entry>
+<entry key="main.state">BY</entry>
+<entry key="main.show_second_fridays">false</entry>
+<entry key="csv.charset">ISO_8859_1</entry>
+<entry key="chars.national">~</entry>
+</properties>
